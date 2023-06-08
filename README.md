@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently looking for a Job
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Data analysis**
 
-- 💬 Ask me about **React, Expressjs , Mongodb, Nodejs**
+- 💬 Ask me about **React, Expressjs , Mongodb, Nodejs, Data analysis**
 
 - 📫 How to reach me **dev.sachinborse@gmail.com**
 
