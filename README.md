@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sachin Borse</h1>
-<h3 align="center">A passionate Developer and Devops  from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently looking for a Job
 
-- 🌱 I’m currently learning **Data analysis**
+- 🌱 I’m currently learning **DEVOPS**
 
-- 💬 Ask me about **React, Expressjs , Mongodb, Nodejs, Data analysis**
+- 💬 Ask me about **React, Nodejs, python, django, AWS, Jenkins, Docker, kubernetes, Ansible**
 
 - 📫 How to reach me **dev.sachinborse@gmail.com**
 
