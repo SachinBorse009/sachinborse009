@@ -1,14 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Sachin Borse</h1>
-<h3 align="center"> Developer | Proficient in BIM & 3D Modeling Technologies from India</h3>
+<h3 align="center"> Developer | Data Analyst | Tekla Modeler in India</h3>
 
-<img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img align="right" alt="Coding" width="350" src="https://img.freepik.com/free-vector/cute-man-working-laptop-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3869.jpg?w=826&t=st=1700645006~exp=1700645606~hmac=2daa424a2f332da722d6d2fa2437d1423eeadb5e0cbdf5684c3a7b47a5767500">
 
 
 
 - 🔭 I’m currently looking for a Job
 
-- 🌱 I’m currently learning **C# for windows application** 
+- 🌱 I’m currently learning **C++ for windows application** 
 
 - 💬 Ask me about
   - Development - **React, Nodejs, python, django, Jenkins, Docker**
@@ -25,6 +25,7 @@
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="css3" width="40" height="40"/>
  <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" alt="css3" width="40" height="40"/>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Logo.png" alt="css3" width="80" height="40"/> </a>  
  <a href="" target="_blank" rel="noreferrer"> <img src="https://www.nicepng.com/png/detail/27-278232_amazon-web-services-logo-png-transparent-amazon-web.png" alt="css3" width="100" height="40"/> </a>   
